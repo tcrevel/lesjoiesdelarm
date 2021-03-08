@@ -14,4 +14,6 @@ categories = [
 +++
 
 # KeyVault Sku family 'A' ???
+'A' car c'est la 1ière lettre de l'alphabet :trollface:
+
 ![alt text](https://github.com/tcrevel/lesjoiesdelarm/tree/main/content/post/keyvaultskufamily.png)
