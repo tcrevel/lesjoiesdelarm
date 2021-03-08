@@ -17,3 +17,5 @@ categories = [
 'A' car c'est la 1ière lettre de l'alphabet :trollface:
 
 ![alt text](https://github.com/tcrevel/lesjoiesdelarm/tree/main/content/post/keyvaultskufamily.png)
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
