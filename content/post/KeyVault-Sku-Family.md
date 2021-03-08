@@ -14,4 +14,4 @@ categories = [
 +++
 
 # KeyVault Sku family 'A' ???
-![alt text](./keyvaultskufamily.png)
+![alt text](https://github.com/tcrevel/lesjoiesdelarm/tree/main/content/post/keyvaultskufamily.png)
